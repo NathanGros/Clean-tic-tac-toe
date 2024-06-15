@@ -1,0 +1,3 @@
+(executable
+    (name tictactoe_fixed)
+    (libraries raylib))
